@@ -1,0 +1,25 @@
+# Blender MTL File: 'Minecraft_Simple_Rig.blend'
+# Material Count: 2
+
+newmtl Char
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd E:\Internetstuffs\Blenderrig\Internal Versions\2.6\FullNew\Textures\Mobs\Original skin.png
+
+newmtl Hat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd E:\Internetstuffs\Blenderrig\Internal Versions\2.6\FullNew\Textures\Mobs\Original skin.png
+map_d E:\\DownloadZ\\Minecraft riged model\\Textures\\Mobs\\Skin.png
